@@ -1,0 +1,14 @@
+{
+  "name": "gcp-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^3.14.1"
+  }
+}
