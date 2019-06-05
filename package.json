@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lerna": "lerna"
+    "bootstrap": "lerna bootstrap",
+    "pack": "lerna run pack",
+    "start": "lerna run start",
+    "start-dev": "lerna run start-dev"
   },
   "author": "",
   "license": "ISC",
